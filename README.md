@@ -11,7 +11,8 @@ User Stories:
   As the user, I want to be able to go back and change the previous question.
   As the user, I want to be able to skip a question but answer it later.
   As the user, I want to be able to review questions and answers at the end.
-Extras:
+  
+Extras: (If I have time)
   As the user, I want to be see my results and standings.
   As the user, I want to see which questions helped determined the ranking.
   
